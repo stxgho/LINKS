@@ -1,4 +1,58 @@
-# LINKS 
+#ENLACESdecursos 
+
+*Buenas vengo a compartir estos cursos lleno de información*
+
+¡¡¡MÁS DE 100GB SOBRE UDEMY!!! Enlaces para descargar: https://drive.google.com/file/d/179_kg0Km0jEUU9swwgac2h5s16urhI0w/view?usp=sharing
+
+1) Bootstrap 4 Práctico desde cero (2.2GB)
+
+2) Guía completa para TensorFlow (5.2GB)
+
+3) Master Flutter Dart de cero a experto (4.9GB)
+
+4) Adobe XD CC Máster Diseño profesional de prototipos (10.7GB)
+
+5) Flutter Avanzado lleva tu conocimiento al siguiente nivel (14.9GB)
+
+8)Fundamentos de programación (22.8GB)
+
+9) La biblia de Nodejs (4.3GB)
+
+10) Universidad JavaScript (16.8GB)
+
+11) Excel negocios de básico a avanzado (1.2GB)
+
+Segunda entrega de más de 100GB en cursos Udemy!!! Enlaces de descarga: https://drive.google.com/file/d/129kP4OKQX0c8UiXSLJQPnRu0n3rabfX5/view?usp=sharing
+
+1) Aprende JavaScript ES9, HTML, CSS3 y NodeJS desde cero (7.5GB)
+
+2) Flutter- Tu guía completa de desarrollo para IOS y Android (14GB)
+
+3) Curso completo de Hacking Ético (8GB)
+
+4) JavaScript 2020- Desde principiante hasta profesional (5.6GB)
+
+5) Procesa pagos con Laravel y las mejores plataformas de pago (3.3GB)
+
+6) Python 3 desde cero hasta Django (3.4GB)
+
+7) Curso completo de Servicio Técnico y Soporte de Computadoras (2.3GB)
+
+8)Guía completa de fotografía de principiante a experto (4GB)
+
+9) Programador Web- Cookies y sesiones PHP (0.3GB)
+
+10) Curso completo de Marketing Digital (2.6GB)
+
+11) Secretos de Google AdSense-99 (3,9 GB)
+
+12) Adobe XD- UX y UI Fundamentos de la Experiencia de Usuario (3.2GB)
+
+13) Diseño de aplicaciones para IOS y Android (0.5GB)
+
+14) Introducción al diseño UX (2.5GB)
+
+15) Máster en programación de videojuegos con Unity 5 y C (3.3GB)
 
 Ciencias y tecnologías de la información, computación y comunicación:
 
@@ -339,3 +393,5 @@ Curso avanzado de hacking
 https://mega.nz/folder/1zAFBSqa#k1xHfIHYwCYLGYaPw08sOw 
 
 
+
+https://mega.nz/folder/xx40BQKC#NqHc8d5k5onIH9sDm_AHLA
