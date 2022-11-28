@@ -2,6 +2,10 @@
 
 *Buenas vengo a compartir estos cursos lleno de información*
 
+4000gb cursos
+https://mega.nz/folder/gYsEha7C#0blPL83HGT09RE-N1kexVA
+
+
 800GB CURSOS
 
 https://mega.nz/folder/xx40BQKC#NqHc8d5k5onIH9sDm_AHLA
