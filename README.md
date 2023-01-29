@@ -355,3 +355,218 @@ https://mega.nz/folder/1zAFBSqa#k1xHfIHYwCYLGYaPw08sOw
 
 
 https://mega.nz/folder/xx40BQKC#NqHc8d5k5onIH9sDm_AHLA
+
+*Commit 29/01/23
+
+https://drive.google.com/drive/folders/1V-01GcNjg4MbaN8w5dyud_2TfjMU2etV?usp=sharing
+DRIVE con los libros del grupo: https://drive.google.com/drive/folders/1x1MFPAjL3rYQ_DChfKj0i-tYpcvXmkqd?usp=sharing
+Bootstrap 5 y SASS - La Guía Práctica - Crea 10 Sitios Web 
+https://mega.nz/folder/TiBSUZ4Z#xTOGJGPfk2dmUFOB2NxPgQ
+revisaste esto que compartieron mas arriba?
+
+https://drive.google.com/drive/folders/1V-01GcNjg4MbaN8w5dyud_2TfjMU2etV?usp=sharing
+https://drive.google.com/drive/folders/11srt6Qr7V123gA358m1CxV1edIdiieLV
+https://drive.google.com/drive/mobile/folders/11HNMJTXMMdLOD5LniBiuvUwXt85uAEZy
+Aprende JavaScript y Jquery de 0 a 100
+https://drive.google.com/drive/folders/1KgCWRUFB01PFRmk8KUTKDbEib54Xf4DC
+ENFERMERIA 
+https://mega.nz/folder/nApzEI5Z#KYlj2RtxOkBXoyDeehdBoQ
+Curso de Google Maps en Flutter
+https://drive.google.com/drive/folders/1Em3pmLh_RjX5CzMq-xcKEIg37TazkyhW
+https://drive.google.com/drive/folders/1hdSylyYGvshO7SLYz7y5ZbYEo67WKFB3?fbclid=IwAR23kNdfmFOsPtzOs-KdZYQBKPmzeDvCwj9VDB0l9W5gSBRrhtz1x4141Lk
+Aprende PYTHON de CERO 
+https://drive.google.com/drive/folders/11srt6Qr7V123gA358m1CxV1edIdiieLV?usp=sharing
+https://drive.google.com/drive/folders/1-yabRkZYGlsHHa4ikbR5iUqipddGq4En?fbclid=IwAR3kOM_v8Lo-fmU5pVohc3R6mDSm_yNJ-81_Ei2K_JBUWSwUp-eoayp10Kk
+Python sin fronteras: HTML, CSS, Flask y MySQL
+https://mega.nz/folder/OM1WBTwB#REpdGHLIvX-LnZu4HoU6Tw
+https://drive.google.com/drive/folders/1uM51ZqpOf8M4_mTzTz4DKvqfyqGR3yCG
+Aporte Universidad Python con Frameworks Django, Flask, etc. +71hrs
+https://drive.google.com/drive/folders/19AaxGSa2GnOMw6o4j9L5jsmd5lQRzb8R
+¿Buscas certificaciones de ciberseguridad GRATUITAS?
+Aquí tienes *15 cursos GRATUITOS* impartidos por Qualys y cortesía de Morgan Halmin en LinkedIn:
+
+1. Vulnerability Management: https://lnkd.in/g64maMet
+2. Global IT Asset Inventory: https://lnkd.in/gXR5bD5N
+3. Scanning Strategies: https://lnkd.in/g6cQjQuh
+4. Reporting Strategies: https://lnkd.in/gs6Vn-DA
+5. Patch Management: https://lnkd.in/gnWVDCNp
+6. Policy Compliance: https://lnkd.in/g5SXKncJ
+7. PCI Compliance: https://lnkd.in/gZns6Xdf
+8. Endpoint Detection & Response: https://lnkd.in/gw22Y__E
+9. Vulnerability Management: https://lnkd.in/gYAFfAuT
+10. Cloud Security Assessment & Response: https://lnkd.in/grrHivcW
+11. API Fundamentals: https://lnkd.in/gngVxhbu
+12. Cloud Agent: https://lnkd.in/gngVxhbu
+13. Container Security: https://lnkd.in/gYNCGY8A
+14. File Integrity Monitoring: https://lnkd.in/gYNCGY8A
+15. Web Application Scanning: https://lnkd.in/ggpJ-vG6
+https://drive.google.com/drive/mobile/folders/1yARb5ni6nfXXUOzOkX1EZzemwt9g06Xl
+https://www.cyberwarfare.live/courses/C3SA/checkout
+https://drive.google.com/drive/folders/1c7iQn5LE4j1k-swNwmcCa2y63ACgnq1B?usp=share_link
+https://drive.google.com/drive/folders/1YpVpXmyhEWOdA9LEMgA_czMnANd_IBsc?fbclid=IwAR3vFf9kWlfad_JFXKYdWTL4bX3TqcGTjGliPNsR8VDEk-YMCgUruaOzDxk
+Escuela Platzi 2
+https://mega.nz/folder/cMl0RB7Y#2CrbHcor32lsSW6o1VevHA
+SQL COMPLETO https://drive.google.com/drive/folders/1yARb5ni6nfXXUOzOkX1EZzemwt9g06Xl?fbclid=IwAR1jko9Pjdwh7bMYb5pjcuTd2I5n84MxPBIV9uHUcnvq-kFg08Cg4hsThWA
+Udemy – Nest + GraphQL: Evoluciona tus APIs
+https://mega.nz/folder/NixhBIIa#zmSHFt0c2UR28YUdCCbX2w
+# TypeScript: Tu completa guía y manual de mano. Fernando Herrera 😎
+
+link: https://mega.nz/folder/3CRjQAKB#v-Jzsm1frQcEQr930DsEDg
+Udemy – Dart: De cero hasta los detalles (Actualizado Ago 2022)
+
+**Dart** es un lenguaje de programación que cada día toma más fuerza. **Google** quien es el creador del lenguaje, tiene su guía de estilos para desarrollar aplicaciones que usen Dart como lenguaje, **dichas guías de estilos las seguiremos a lo largo de este curso.**
+
+**Contraseña:** V}7+9Id@%%
+
+https://mega.nz/folder/7RxEyIyK#fhF3quN3_Htg5OfTAdgCvA
+Cursos de Mastermind
+Qué lenguaje de programación aprender
+https://drive.google.com/drive/folders/1wRdphNSsR1Tg2gHLCnQj0fNQ5qMR7Ii6?usp=sharing
+
+Domina los procesos de selección Tech
+https://drive.google.com/drive/folders/12961i2EhNLUUhfReiM-_xfyJpck7YRFV?usp=sharing
+
+Git ¡de Noob a Pro!
+https://drive.google.com/drive/folders/1KAjjzdq07Dd4_zgKwGQdvDW-hwbBN8eM?usp=sharing
+
+Diseño de Bases de Datos Relacionales con MySQL
+https://drive.google.com/drive/folders/1KtJm8EZlNLMvVrWG2hkjaJ9Rk5rqrXQQ?usp=sharing
+
+Bases de datos NoSQL con MongoDB y Node.js
+https://drive.google.com/drive/folders/13WXEQmln3jC5ZAIyX1bOq3EBvUeldHU9?usp=sharing
+
+PHP y la Web Desde Cero
+https://drive.google.com/drive/folders/1ZRx6kmZ2obzZfqobn1wM6wUlCgcqgBBU?usp=sharing
+
+Aprende Laravel Desde Cero
+https://drive.google.com/drive/folders/1q2hY73GHr5TZKgL78wEtgS3ClcvfzqMG?usp=sharing
+
+Crea tu propio Framework Web con PHP
+https://drive.google.com/drive/folders/1cgivLWVdDgk6F94dc5suB8RAIH4rPW6e?usp=sharing
+
+Introducción a Frameworks de Frontend con Vue 3
+https://drive.google.com/drive/folders/1g15JsEiLmlpmFzV7DiIrqsqZ5oFk2tou?usp=sharing
+
+El Lenguaje de Programación C - Kernighan y Ritch…
+https://drive.google.com/drive/folders/1WqpvSgvn2gvFCERmbq7ltTgWHeEEEqtP?usp=sharing
+
+Introducción a la Ciencia de Datos con Python
+https://drive.google.com/drive/folders/1wmhgy73WwaBDjF1hTCQvZ-dVfJeO6TUO?usp=sharing
+Udemy – Vue.js: De cero a experto
+
+**Contraseña:** ebzo.net
+
+https://uptobox.com/gtl8opufv9ke
+
+https://uptobox.com/y47p0kdp5avk
+
+https://uptobox.com/dw23357l1j6g
+
+https://uptobox.com/k16095mdrps6
+
+https://uptobox.com/t3l7e6t5s4at
+
+https://uptobox.com/b3jntw1n6tbm
+
+https://uptobox.com/pf2ullxlu6oe
+
+https://uptobox.com/dra9t5gg2epw
+Udemy – Angular: De cero a experto (Actualizado Noviembre 2022 )
+
+**Contraseña:** ebzo.net
+
+https://mega.nz/folder/zBshXIQY#NkNKpoGxgkLoWZKVxSKxZg
+Udemy – ReactiveX – RxJs: De cero hasta los detalles
+
+Este curso de **ReactiveX** está orientado a enseñarte desde los **fundamentos de las extensiones reactivas hasta los detalles del tema**.  Pueda que ya usemos las extensiones reactivas en nuestras aplicaciones,  ya que muchos frameworks lo traen incluido, pero usualmente no lo  aprovechamos al máximo por desconocimiento del tema.
+
+**https://www.fireload.com/folder/8861/ReactiveX_-_RxJs:_De_cero_hasta_los_detalles**
+Udemy – Angular Avanzado: Lleva tus bases al siguiente nivel – MEAN (Actualizado Nov 2022)
+
+**Contraseña:** ebzo.net
+
+https://mega.nz/folder/qF1xiByL#rXLFaVY58YheIOOb3CXGlA
+Udemy – Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+Contraseña para descomprimir: ebzo.net
+https://uptobox.com/user_public?hash=78f88324b40722d8&folder=3102474385
+
+2da opcion 
+https://1fichier.com/dir/MM3aEUSH
+Udemy – Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+Contraseña para descomprimir: ebzo.net
+https://uptobox.com/user_public?hash=78f88324b40722d8&folder=3102474385
+
+2da opcion 
+https://1fichier.com/dir/MM3aEUSH
+Aprende Javascript ES9, HTML, CSS3 y NodeJS desde cero
+(Ultima actualización 12 Ago 2022)
+Contraseña para descomprimir: ebzo.net
+https://uptobox.com/user_public?hash=722edf396528a813&folder=418709650
+Udemy – JavaScript Moderno: Guía para dominar el lenguaje (Actualizado Nov 2022)
+https://drive.google.com/drive/folders/18Kz8Mt-qdRXZ-aavSE91KC_zjdeK7Xbq
+Udemy – React: De cero a experto ( Hooks y MERN ) (Actualizado Noviembre 2022)
+Contraseña para descomprimir: ebzo.net
+https://uptobox.com/user_public?hash=c259026603a6c26b&folder=2333540497
+2da opción
+https://1fichier.com/dir/vp1MgQn8
+Udemy – React PRO: Lleva tus bases al siguiente nivel
+
+**Contraseña:** ebzo.net
+
+https://1fichier.com/?9f266kfqcsvmhsnqzuj4
+
+https://1fichier.com/?ssfuatc0jbsrv3e1mba3
+
+https://1fichier.com/?9qz5ct8r71ym2e3sbbei
+
+https://1fichier.com/?s1hwp1b0ff2eh77v5k1p
+
+https://1fichier.com/?3qrugtikcrw4uobatn4u
+
+https://1fichier.com/?1xv0lakocmvvpakvlhzc
+
+https://1fichier.com/?7ii7ftqn9704jxun1lkx
+https://mega.nz/folder/pY11SCxL#zFLgGyhGuJ4Db2_3ATZEfg/folder/pB0xzKDT
+Udemy – Angular: Aplicaciones en tiempo real con sockets y rest
+
+**Angular: Aplicaciones en tiempo real con sockets y rest**
+
+Este curso tiene varios **objetivos en concreto**, que  van desde aprender a crear tu propio servidor REST, integrarle la  comunicación de sockets y la creación de varias aplicaciones en Angular  para el consumo de dichos servicios REST y establecer la comunicación en  tiempo real con sockets.
+
+**Contraseña:** redvirtual.bid
+
+http://www.mediafire.com/?hoyggpry9nucseu
+
+http://www.mediafire.com/?co4se0c03b3daf1
+
+http://www.mediafire.com/?avuc3ra7g4l8jh2
+
+http://www.mediafire.com/?tafftaisb0hx98n
+
+http://www.mediafire.com/?v904v4qu2v5689k
+
+http://www.mediafire.com/?cmxpviolrd08gg7
+
+http://www.mediafire.com/?g4u7at4ubj7rwm8
+
+http://www.mediafire.com/?icr9757vcvl3lx8
+
+http://www.mediafire.com/?lqzec1qt7obrgnd
+
+http://www.mediafire.com/?jxh92kyz0xttlp7
+
+http://www.mediafire.com/?7suaj7y910080t8
+
+http://www.mediafire.com/?xolqw7x4ihkh146
+https://mega.nz/folder/johzBKCI#jpHAvR9JiV-oaYI09TFlPQ
+https://drive.google.com/drive/folders/12hHAYRYangVF5pVrVfrJi3C-R_SYFsfz
+https://drive.google.com/drive/folders/1XNboZ4wwXymspc_-aGH5iHb5H9y3BiwX
+https://mega.nz/folder/74RGVbyK#1AezF3um-KmKnstjeyVbow/folder/q5wyjLjQ
+https://drive.google.com/drive/u/0/folders/1PWb4tYkTheLmTkiSClkjBk_KPIuztiNv?fbclid=IwAR3KAzJkGrb2M13lSMjnNI4x1kE0dmv6CLdUWUJEsayhUK1mFJoZZfTYpy8
+https://mega.nz/folder/AwFi2JAT#_rwNN4c9wFNsuVQNfd6MAg/folder/Qs9iUbTC
+https://mega.nz/folder/gpk01DRB#FjBFLB3edH466tQ3GdHrQw/folder/ZpNmCJaJ
+https://mega.nz/folder/jVBB1IzC#eM1joLla3IG4AZUMP7Mc1w/folder/2NZC0JyL
+https://drive.google.com/drive/folders/1YWFKsuUXKZxzhzc4FlsZCUGsLGL54DpC
+https://mega.nz/folder/XYJyyZ7Z#1l7EaXwxI4oJicTpN1WCLg/folder/SFRHUKbD
+https://mega.nz/folder/eUsX0YaB#7242x3Qwuk82uEuClhyktw
+https://mega.nz/file/ekpRQThC#d9xrvFfKzxeGn6VFv0dcXyNiv066T0eV5JWBDjnj22Q
